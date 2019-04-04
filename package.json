@@ -1,0 +1,27 @@
+{
+  "name": "nuxtTest",
+  "version": "1.0.0",
+  "description": "My ultimate Nuxt.js project",
+  "author": "Quino",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "cross-env": "^5.2.0",
+    "css-loader": "^2.1.1",
+    "node-sass": "^4.11.0",
+    "nuxt": "^2.4.0",
+    "postcss-loader": "^3.0.0",
+    "sass-loader": "^7.1.0",
+    "style-loader": "^0.23.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.9",
+    "vue-quill-editor": "^3.0.6",
+    "vuedraggable": "^2.20.0"
+  }
+}
